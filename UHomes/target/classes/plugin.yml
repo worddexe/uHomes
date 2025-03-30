@@ -1,0 +1,32 @@
+name: UHomes
+version: 1.0
+main: me.worddexe.uHomes.UHomes
+api-version: 1.21
+author: worddexe
+commands:
+  homes:
+    description: Open homes menu
+  home:
+    description: Teleport to home 1
+permissions:
+  uHomes.maxhomes.1:
+    description: Allows 1 home
+    default: false
+  uHomes.maxhomes.2:
+    description: Allows 2 homes
+    default: false
+  uHomes.maxhomes.3:
+    description: Allows 3 homes
+    default: true
+  uHomes.maxhomes.4:
+    description: Allows 4 homes
+    default: false
+  uHomes.maxhomes.5:
+    description: Allows 5 homes
+    default: false
+  uHomes.maxhomes.6:
+    description: Allows 6 homes
+    default: false
+  uHomes.maxhomes.7:
+    description: Allows 7 homes
+    default: false
